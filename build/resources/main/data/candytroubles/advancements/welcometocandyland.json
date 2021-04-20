@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "candytroubles:candy"
+    },
+    "title": {
+      "translate": "advancements.welcometocandyland.title"
+    },
+    "description": {
+      "translate": "advancements.welcometocandyland.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "welcometocandyland": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "candytroubles:candy_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 60
+  }
+}

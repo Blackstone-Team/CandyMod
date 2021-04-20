@@ -1,0 +1,11 @@
+{
+  "_fv": 17,
+  "_type": "tab",
+  "definition": {
+    "name": "Candy Troubles",
+    "icon": {
+      "value": "CUSTOM:Candy"
+    },
+    "showSearch": true
+  }
+}

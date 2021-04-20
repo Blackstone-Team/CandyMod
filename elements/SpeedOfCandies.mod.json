@@ -1,0 +1,36 @@
+{
+  "_fv": 17,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Speed Of Candies",
+    "type": "ARMOR_FEET",
+    "rarity": "COMMON",
+    "minLevel": 1,
+    "maxLevel": 6,
+    "damageModifier": 2,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "Items.LEATHER_BOOTS"
+      },
+      {
+        "value": "Items.CHAINMAIL_BOOTS"
+      },
+      {
+        "value": "Items.IRON_BOOTS"
+      },
+      {
+        "value": "Items.GOLDEN_BOOTS"
+      },
+      {
+        "value": "Items.DIAMOND_BOOTS"
+      },
+      {
+        "value": "Items.NETHERITE_BOOTS"
+      }
+    ],
+    "isTreasureEnchantment": true,
+    "isCurse": false,
+    "isAllowedOnBooks": true
+  }
+}

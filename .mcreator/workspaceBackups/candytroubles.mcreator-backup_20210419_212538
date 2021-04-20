@@ -1,0 +1,192 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CandyBiome",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_biome"
+    },
+    {
+      "name": "CandyFoodEaten",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Candy",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy"
+    },
+    {
+      "name": "CandyTroubles",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_troubles"
+    },
+    {
+      "name": "CandyDimension",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Welcometocandyland",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "welcometocandyland"
+    },
+    {
+      "name": "SpeedOfCandies",
+      "type": "enchantment",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "speed_of_candies"
+    },
+    {
+      "name": "SDparticle",
+      "type": "particle",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s_dparticle"
+    },
+    {
+      "name": "SDprocedure",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s_dprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CandyDimensionDisc",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_dimension_disc"
+    },
+    {
+      "name": "SweetDreamsDisc",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sweet_dreams_disc"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "candydimension",
+      "files": [
+        "sweet_dreams"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "advancements.welcometocandyland.descr": "Get into the Candy Dimension.",
+      "subtitles.candydimensionsdisc": "",
+      "biome.candytroubles.candy_biome": "Candy Biome",
+      "item.candytroubles.sweet_dreams_disc.desc": "Andus - Sweet Dreams",
+      "subtitles.candydimension": "",
+      "item.candytroubles.candy": "Candy",
+      "item.candytroubles.sweet_dreams_disc": "Music Disc",
+      "item.candytroubles.candy_dimension_disc.desc": "Andus - Candy Dimension",
+      "subtitles.sweetdreamsdisc": "Andus - Sweet Dreams",
+      "item.candytroubles.candy_dimension_disc": "Music Disc",
+      "enchantment.candytroubles.speed_of_candies": "Speed Of Candies",
+      "itemGroup.tabcandy_troubles": "Candy Troubles",
+      "item.candytroubles.candy_dimension": "Candy Crumbs",
+      "subtitles.candydimensions": "",
+      "advancements.welcometocandyland.title": "Welcome to Candy Dimension!"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "candytroubles",
+    "modName": "CandyTroubles",
+    "version": "1.0.0",
+    "author": "Andus, MCreator",
+    "websiteURL": "https://github.com/Blackstone-Team",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "candy",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "pl.blackstone.candytroubles",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100112313
+}

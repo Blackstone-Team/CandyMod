@@ -1,0 +1,17 @@
+{
+  "_fv": 17,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "candydisc",
+    "name": "Music Disc",
+    "description": "Andus - Candy Dimension",
+    "creativeTab": {
+      "value": "CUSTOM:CandyTroubles"
+    },
+    "music": {
+      "value": "CUSTOM:candydimension"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

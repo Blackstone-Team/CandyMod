@@ -1,0 +1,29 @@
+{
+  "_fv": 17,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "candy",
+    "customModelName": "Normal",
+    "name": "Candy",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CandyTroubles"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "CandyFoodEaten"
+    }
+  }
+}

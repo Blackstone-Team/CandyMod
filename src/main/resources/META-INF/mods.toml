@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="candytroubles"
+version="1.0.0"
+displayName="CandyTroubles"
+credits="Created using MCreator - https://mcreator.net/about . Such a great software ^^."
+displayURL="https://github.com/Blackstone-Team"
+logoFile="logo.png"
+authors="Andus, MCreator"
+description='''
+A little mod created by Blackstone
+'''
+
+[[dependencies.candytroubles]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

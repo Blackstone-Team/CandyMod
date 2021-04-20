@@ -1,0 +1,11 @@
+{
+  "candydimension": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "candytroubles:sweet_dreams",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 17,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "sweetdreams",
+    "name": "Music Disc",
+    "description": "Andus - Sweet Dreams",
+    "creativeTab": {
+      "value": "CUSTOM:CandyTroubles"
+    },
+    "music": {
+      "value": "CUSTOM:candydimension"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
