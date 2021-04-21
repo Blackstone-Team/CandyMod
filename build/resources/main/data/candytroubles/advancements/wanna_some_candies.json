@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "candytroubles:candy_ore"
+    },
+    "title": {
+      "translate": "advancements.wanna_some_candies.title"
+    },
+    "description": {
+      "translate": "advancements.wanna_some_candies.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wanna_some_candies": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "candytroubles:candy_ore"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "candytroubles:welcometocandyland"
+}

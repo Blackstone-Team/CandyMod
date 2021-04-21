@@ -2,9 +2,13 @@ pl/blackstone/candytroubles/CandytroublesModElements.java
  pl.blackstone.candytroubles.CandytroublesModElements
  pl.blackstone.candytroubles.CandytroublesModElements$ModElement
  pl.blackstone.candytroubles.CandytroublesModElements$ModElement$Tag
-pl/blackstone/candytroubles/enchantment/SpeedOfCandiesEnchantment.java
- pl.blackstone.candytroubles.enchantment.SpeedOfCandiesEnchantment
- pl.blackstone.candytroubles.enchantment.SpeedOfCandiesEnchantment$CustomEnchantment
+pl/blackstone/candytroubles/block/CandyOreBlock.java
+ pl.blackstone.candytroubles.block.CandyOreBlock
+ pl.blackstone.candytroubles.block.CandyOreBlock$1
+ pl.blackstone.candytroubles.block.CandyOreBlock$CustomBlock
+ pl.blackstone.candytroubles.block.CandyOreBlock$CustomRuleTest
+ pl.blackstone.candytroubles.block.CandyOreBlock$FeatureRegisterHandler
+ pl.blackstone.candytroubles.block.CandyOreBlock$FeatureRegisterHandler$1
 pl/blackstone/candytroubles/procedures/SDprocedureProcedure.java
  pl.blackstone.candytroubles.procedures.SDprocedureProcedure
 pl/blackstone/candytroubles/world/biome/CandyBiomeBiome.java
@@ -39,3 +43,6 @@ pl/blackstone/candytroubles/item/SweetDreamsDiscItem.java
  pl.blackstone.candytroubles.item.SweetDreamsDiscItem$MusicDiscItemCustom
 pl/blackstone/candytroubles/item/CandyDimensionItem.java
  pl.blackstone.candytroubles.item.CandyDimensionItem
+pl/blackstone/candytroubles/item/CandyGemItem.java
+ pl.blackstone.candytroubles.item.CandyGemItem
+ pl.blackstone.candytroubles.item.CandyGemItem$ItemCustom

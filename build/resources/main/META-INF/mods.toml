@@ -6,10 +6,13 @@ license="GNU General Public License version 3 (GPLv3)"
 modId="candytroubles"
 version="1.0.0"
 displayName="CandyTroubles"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Created using MCreator - https://mcreator.net/about . Such a great software ^^."
 displayURL="https://github.com/Blackstone-Team"
 logoFile="logo.png"
 authors="Andus, MCreator"
+description='''
+A little mod created by Blackstone
+'''
 
 [[dependencies.candytroubles]]
     modId="minecraft"

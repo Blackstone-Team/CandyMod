@@ -1,0 +1,12 @@
+{
+  "group": "candytroubles",
+  "type": "minecraft:smelting",
+  "experience": 5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "candytroubles:candy_ore"
+  },
+  "result": {
+    "item": "candytroubles:candy_gem"
+  }
+}

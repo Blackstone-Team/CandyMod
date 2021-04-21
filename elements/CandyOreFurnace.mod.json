@@ -1,0 +1,20 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 5.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:CandyOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CandyGem"
+    },
+    "name": "candy_ore_furnace",
+    "namespace": "mod"
+  }
+}
