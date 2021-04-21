@@ -16,7 +16,7 @@ public class SweetDreamsDiscItem extends CandytroublesModElements.ModElement {
 	@ObjectHolder("candytroubles:sweet_dreams_disc")
 	public static final Item block = null;
 	public SweetDreamsDiscItem(CandytroublesModElements instance) {
-		super(instance, 11);
+		super(instance, 5);
 	}
 
 	@Override

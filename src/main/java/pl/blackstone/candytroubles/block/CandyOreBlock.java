@@ -46,7 +46,7 @@ public class CandyOreBlock extends CandytroublesModElements.ModElement {
 	@ObjectHolder("candytroubles:candy_ore")
 	public static final Block block = null;
 	public CandyOreBlock(CandytroublesModElements instance) {
-		super(instance, 12);
+		super(instance, 2);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

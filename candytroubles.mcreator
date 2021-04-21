@@ -4,7 +4,7 @@
     {
       "name": "CandyBiome",
       "type": "biome",
-      "sortid": 1,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -13,7 +13,7 @@
     {
       "name": "CandyFoodEaten",
       "type": "procedure",
-      "sortid": 2,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -30,7 +30,7 @@
     {
       "name": "Candy",
       "type": "food",
-      "sortid": 2,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -39,7 +39,7 @@
     {
       "name": "CandyTroubles",
       "type": "tab",
-      "sortid": 2,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -48,7 +48,7 @@
     {
       "name": "CandyDimension",
       "type": "dimension",
-      "sortid": 3,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -60,7 +60,7 @@
     {
       "name": "Welcometocandyland",
       "type": "achievement",
-      "sortid": 4,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -69,7 +69,7 @@
     {
       "name": "SDprocedure",
       "type": "procedure",
-      "sortid": 9,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -86,7 +86,7 @@
     {
       "name": "CandyDimensionDisc",
       "type": "musicdisc",
-      "sortid": 10,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -95,7 +95,7 @@
     {
       "name": "SweetDreamsDisc",
       "type": "musicdisc",
-      "sortid": 11,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -104,7 +104,7 @@
     {
       "name": "CandyOre",
       "type": "block",
-      "sortid": 12,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -113,7 +113,7 @@
     {
       "name": "WannaSomeCandies",
       "type": "achievement",
-      "sortid": 13,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -122,7 +122,7 @@
     {
       "name": "CandyOreFurnace",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -131,7 +131,7 @@
     {
       "name": "CandyGem",
       "type": "item",
-      "sortid": 15,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},

@@ -49,15 +49,15 @@ import com.google.common.collect.ImmutableList;
 public class CandyBiomeBiome extends CandytroublesModElements.ModElement {
 	public static Biome biome;
 	public CandyBiomeBiome(CandytroublesModElements instance) {
-		super(instance, 1);
+		super(instance, 7);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BiomeRegisterHandler());
 	}
 	private static class BiomeRegisterHandler {
 		@SubscribeEvent
 		public void registerBiomes(RegistryEvent.Register<Biome> event) {
 			if (biome == null) {
-				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(-13108).setWaterColor(-65383).setWaterFogColor(-65281)
-						.withSkyColor(-13108).withFoliageColor(-65332).withGrassColor(-39169)
+				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(-13108).setWaterColor(-65383).setWaterFogColor(-6750055)
+						.withSkyColor(-13108).withFoliageColor(-39169).withGrassColor(-39169)
 						.setMusic(new BackgroundMusicSelector((net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS
 								.getValue(new ResourceLocation("candytroubles:candydimension")), 12000, 24000, true))
 						.build();

@@ -19,7 +19,7 @@ public class CandyDimensionDiscItem extends CandytroublesModElements.ModElement 
 	@ObjectHolder("candytroubles:candy_dimension_disc")
 	public static final Item block = null;
 	public CandyDimensionDiscItem(CandytroublesModElements instance) {
-		super(instance, 10);
+		super(instance, 4);
 	}
 
 	@Override

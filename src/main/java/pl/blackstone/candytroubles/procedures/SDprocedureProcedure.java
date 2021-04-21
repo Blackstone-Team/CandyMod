@@ -20,7 +20,7 @@ import java.util.Map;
 @CandytroublesModElements.ModElement.Tag
 public class SDprocedureProcedure extends CandytroublesModElements.ModElement {
 	public SDprocedureProcedure(CandytroublesModElements instance) {
-		super(instance, 9);
+		super(instance, 11);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

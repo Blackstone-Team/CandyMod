@@ -2,6 +2,12 @@ pl/blackstone/candytroubles/CandytroublesModElements.java
  pl.blackstone.candytroubles.CandytroublesModElements
  pl.blackstone.candytroubles.CandytroublesModElements$ModElement
  pl.blackstone.candytroubles.CandytroublesModElements$ModElement$Tag
+pl/blackstone/candytroubles/CandytroublesMod.java
+ pl.blackstone.candytroubles.CandytroublesMod
+ pl.blackstone.candytroubles.CandytroublesMod$CandytroublesModFMLBusEvents
+pl/blackstone/candytroubles/item/CandyGemItem.java
+ pl.blackstone.candytroubles.item.CandyGemItem
+ pl.blackstone.candytroubles.item.CandyGemItem$ItemCustom
 pl/blackstone/candytroubles/block/CandyOreBlock.java
  pl.blackstone.candytroubles.block.CandyOreBlock
  pl.blackstone.candytroubles.block.CandyOreBlock$1
@@ -35,14 +41,8 @@ pl/blackstone/candytroubles/item/CandyItem.java
 pl/blackstone/candytroubles/itemgroup/CandyTroublesItemGroup.java
  pl.blackstone.candytroubles.itemgroup.CandyTroublesItemGroup
  pl.blackstone.candytroubles.itemgroup.CandyTroublesItemGroup$1
-pl/blackstone/candytroubles/CandytroublesMod.java
- pl.blackstone.candytroubles.CandytroublesMod
- pl.blackstone.candytroubles.CandytroublesMod$CandytroublesModFMLBusEvents
 pl/blackstone/candytroubles/item/SweetDreamsDiscItem.java
  pl.blackstone.candytroubles.item.SweetDreamsDiscItem
  pl.blackstone.candytroubles.item.SweetDreamsDiscItem$MusicDiscItemCustom
 pl/blackstone/candytroubles/item/CandyDimensionItem.java
  pl.blackstone.candytroubles.item.CandyDimensionItem
-pl/blackstone/candytroubles/item/CandyGemItem.java
- pl.blackstone.candytroubles.item.CandyGemItem
- pl.blackstone.candytroubles.item.CandyGemItem$ItemCustom

@@ -23,7 +23,7 @@ public class CandyItem extends CandytroublesModElements.ModElement {
 	@ObjectHolder("candytroubles:candy")
 	public static final Item block = null;
 	public CandyItem(CandytroublesModElements instance) {
-		super(instance, 2);
+		super(instance, 1);
 	}
 
 	@Override

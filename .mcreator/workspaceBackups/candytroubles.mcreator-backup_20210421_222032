@@ -67,15 +67,6 @@
       "registry_name": "welcometocandyland"
     },
     {
-      "name": "SpeedOfCandies",
-      "type": "enchantment",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "speed_of_candies"
-    },
-    {
       "name": "SDprocedure",
       "type": "procedure",
       "sortid": 9,
@@ -118,6 +109,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "candy_ore"
+    },
+    {
+      "name": "WannaSomeCandies",
+      "type": "achievement",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wanna_some_candies"
+    },
+    {
+      "name": "CandyOreFurnace",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_ore_furnace"
+    },
+    {
+      "name": "CandyGem",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "candy_gem"
     }
   ],
   "variable_elements": [],
@@ -136,19 +154,21 @@
       "advancements.welcometocandyland.descr": "Get into the Candy Dimension.",
       "subtitles.candydimensionsdisc": "",
       "biome.candytroubles.candy_biome": "Candy Biome",
+      "item.candytroubles.candy_gem": "Candy Gem",
       "item.candytroubles.sweet_dreams_disc.desc": "Andus - Sweet Dreams",
       "subtitles.candydimension": "",
       "item.candytroubles.candy": "Candy",
       "item.candytroubles.sweet_dreams_disc": "Music Disc",
+      "advancements.wanna_some_candies.title": "Wanna Some Candies?",
       "item.candytroubles.candy_dimension_disc.desc": "Andus - Candy Dimension",
       "block.candytroubles.candy_ore": "Candy Ore",
       "subtitles.sweetdreamsdisc": "Andus - Sweet Dreams",
       "item.candytroubles.candy_dimension_disc": "Music Disc",
-      "enchantment.candytroubles.speed_of_candies": "Speed Of Candies",
       "itemGroup.tabcandy_troubles": "Candy Troubles",
       "item.candytroubles.candy_dimension": "Candy Crumbs",
       "subtitles.candydimensions": "",
-      "advancements.welcometocandyland.title": "Welcome to Candy Dimension!"
+      "advancements.welcometocandyland.title": "Welcome to Candy Dimension!",
+      "advancements.wanna_some_candies.descr": "Get Candy Ore into your hands!"
     }
   },
   "foldersRoot": {

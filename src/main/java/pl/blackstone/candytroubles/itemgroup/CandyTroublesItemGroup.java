@@ -13,7 +13,7 @@ import net.minecraft.item.ItemGroup;
 @CandytroublesModElements.ModElement.Tag
 public class CandyTroublesItemGroup extends CandytroublesModElements.ModElement {
 	public CandyTroublesItemGroup(CandytroublesModElements instance) {
-		super(instance, 2);
+		super(instance, 9);
 	}
 
 	@Override

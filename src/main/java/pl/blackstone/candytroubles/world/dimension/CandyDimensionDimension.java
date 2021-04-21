@@ -75,7 +75,7 @@ public class CandyDimensionDimension extends CandytroublesModElements.ModElement
 	@ObjectHolder("candytroubles:candy_dimension_portal")
 	public static final CustomPortalBlock portal = null;
 	public CandyDimensionDimension(CandytroublesModElements instance) {
-		super(instance, 3);
+		super(instance, 6);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new POIRegisterHandler());
 	}
 

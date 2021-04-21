@@ -16,7 +16,7 @@ public class CandyGemItem extends CandytroublesModElements.ModElement {
 	@ObjectHolder("candytroubles:candy_gem")
 	public static final Item block = null;
 	public CandyGemItem(CandytroublesModElements instance) {
-		super(instance, 15);
+		super(instance, 3);
 	}
 
 	@Override
