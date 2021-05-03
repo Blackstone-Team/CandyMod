@@ -11,7 +11,7 @@ We'll see you on the other side of rainbow!
 
 ## Wiki:
 
-Here you can find all recipies: [`link`]()  
+Here you can find all recipies: [`link`](https://github.com/Blackstone-Team/CandyMod/wiki/Recipies)  
 Here is full description of any block or item from mod: `link` (NOT WORKING)
 
 ## Credits:
