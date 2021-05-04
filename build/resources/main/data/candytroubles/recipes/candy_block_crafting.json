@@ -1,0 +1,42 @@
+{
+  "group": "candytroubles",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "candytroubles:candy"
+    },
+    "1": {
+      "item": "candytroubles:candy"
+    },
+    "2": {
+      "item": "candytroubles:candy"
+    },
+    "3": {
+      "item": "candytroubles:candy"
+    },
+    "4": {
+      "item": "candytroubles:candy_gem"
+    },
+    "5": {
+      "item": "candytroubles:candy"
+    },
+    "6": {
+      "item": "candytroubles:candy"
+    },
+    "7": {
+      "item": "candytroubles:candy"
+    },
+    "8": {
+      "item": "candytroubles:candy"
+    }
+  },
+  "result": {
+    "item": "candytroubles:block_of_candy",
+    "count": 1
+  }
+}

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "candy",
+    "texture": "candygem",
     "customModelName": "Normal",
     "name": "Candy Gem",
     "rarity": "UNCOMMON",

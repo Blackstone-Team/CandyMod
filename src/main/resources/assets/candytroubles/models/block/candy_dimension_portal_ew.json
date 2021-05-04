@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "candytroubles:blocks/portaltexture",
-    "portal": "candytroubles:blocks/portaltexture"
+    "particle": "candytroubles:blocks/portaltext",
+    "portal": "candytroubles:blocks/portaltext"
   },
   "elements": [
     {

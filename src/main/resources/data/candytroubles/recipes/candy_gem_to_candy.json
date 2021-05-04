@@ -1,0 +1,9 @@
+{
+  "group": "candytroubles",
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "candytroubles:candy_gem"
+  },
+  "result": "candytroubles:candy"
+}

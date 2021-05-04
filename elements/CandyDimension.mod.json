@@ -14,6 +14,10 @@
     "fluidBlock": {
       "value": "Blocks.WATER"
     },
+    "airColor": {
+      "value": -13057,
+      "falpha": 0.0
+    },
     "canRespawnHere": true,
     "hasFog": false,
     "isDark": false,
@@ -29,14 +33,14 @@
     },
     "portalLuminance": 9,
     "portalSound": {
-      "value": "block.portal.ambient"
+      "value": ""
     },
     "igniterName": "Candy Crumbs",
     "igniterTab": {
       "value": "TOOLS"
     },
     "texture": "candycrumbs",
-    "portalTexture": "portaltexture",
+    "portalTexture": "portaltext",
     "enablePortal": true
   }
 }

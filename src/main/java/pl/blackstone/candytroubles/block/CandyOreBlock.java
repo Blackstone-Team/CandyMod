@@ -106,8 +106,8 @@ public class CandyOreBlock extends CandytroublesModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(95)
-					.square().func_242731_b(12);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 4)).range(90)
+					.square().func_242731_b(4);
 			event.getRegistry().register(feature.setRegistryName("candy_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("candytroubles:candy_ore"), configuredFeature);
 		}

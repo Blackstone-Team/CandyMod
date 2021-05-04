@@ -1,0 +1,46 @@
+{
+  "_fv": 17,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:CandyGem"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      },
+      {
+        "value": "CUSTOM:Candy"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockOfCandy"
+    },
+    "name": "candy_block_crafting",
+    "namespace": "mod"
+  }
+}

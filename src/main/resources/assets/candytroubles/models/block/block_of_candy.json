@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "candytroubles:blocks/candyblock",
+    "up": "candytroubles:blocks/candyblock",
+    "north": "candytroubles:blocks/candyblock",
+    "east": "candytroubles:blocks/candyblock",
+    "south": "candytroubles:blocks/candyblock",
+    "west": "candytroubles:blocks/candyblock",
+    "particle": "candytroubles:blocks/candyblock"
+  }
+}

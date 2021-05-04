@@ -57,7 +57,7 @@ public class CandyBiomeBiome extends CandytroublesModElements.ModElement {
 		public void registerBiomes(RegistryEvent.Register<Biome> event) {
 			if (biome == null) {
 				BiomeAmbience effects = new BiomeAmbience.Builder().setFogColor(-13108).setWaterColor(-65383).setWaterFogColor(-6750055)
-						.withSkyColor(-13108).withFoliageColor(-39169).withGrassColor(-39169)
+						.withSkyColor(-13108).withFoliageColor(-39220).withGrassColor(-26113)
 						.setMusic(new BackgroundMusicSelector((net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS
 								.getValue(new ResourceLocation("candytroubles:candydimension")), 12000, 24000, true))
 						.build();
@@ -69,9 +69,9 @@ public class CandyBiomeBiome extends CandytroublesModElements.ModElement {
 						.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(Blocks.OAK_LOG.getDefaultState()),
 								new SimpleBlockStateProvider(Blocks.OAK_LEAVES.getDefaultState()),
 								new BlobFoliagePlacer(FeatureSpread.func_242252_a(2), FeatureSpread.func_242252_a(0), 3),
-								new StraightTrunkPlacer(7, 2, 0), new TwoLayerFeature(1, 0, 1)))
+								new StraightTrunkPlacer(8, 2, 0), new TwoLayerFeature(1, 0, 1)))
 										.setDecorators(ImmutableList.of(CustomLeaveVineTreeDecorator.instance, CustomTrunkVineTreeDecorator.instance))
-										.setMaxWaterDepth(0).build())
+										.setMaxWaterDepth(8).build())
 						.withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT)
 						.withPlacement(Placement.COUNT_EXTRA.configure(new AtSurfaceWithExtraConfig(1, 0.1F, 1))));
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION,
