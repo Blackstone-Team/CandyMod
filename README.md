@@ -25,3 +25,4 @@ Here is full description of any block or item from mod: [`link`](https://github.
 
   <a><h4>Others (Friends, etc.)</h4></a>
  - `Xvlkvx` <a><img src="https://raw.githubusercontent.com/Blackstone-Team/BlackstoneREADME/main/CandyMod/wiki/notexture.png" alt="Xvl-pic" width="20" height="20"/></a>
+ - `Naediea` <a><img src="https://raw.githubusercontent.com/Blackstone-Team/BlackstoneREADME/main/CandyMod/wiki/notexture.png" alt="Nae-pic" width="20" height="20"/></a>
